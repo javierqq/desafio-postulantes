@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+html-to-json
+lxml
+selenium
+chromedriver-binary
+webdriver-manager
+
